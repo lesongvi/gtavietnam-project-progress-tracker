@@ -34,6 +34,7 @@
  * [ ] Job nhân viên dọn rác (nâng cấp -> add thêm vài task ở bãi rác LS)
  * [ ] Job công nhân cảng (khiêng vác đồ)
  * [ ] Thi bằng lái xe
+ * [ ] Lite launcher
 
 ## UCP:
 
