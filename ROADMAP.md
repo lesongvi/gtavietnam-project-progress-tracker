@@ -42,7 +42,7 @@
  * [x] Host tải game + client
  * [x] KnowledgeBased system
  * [x] Support system
- * [ ] Server realtime fetchable API
+ * [ ] Server realtime fetchable API (@cacheable)
  * [ ] Reverse location by coordinates
  * [ ] Chỉnh sửa hồ sơ (Bio, social networks info, cài đặt hiển thị hồ sơ, lịch sử cấm, lịch sử đổi tên,...) -> tab đầu của cài đặt người dùng
  * [ ] Liên kết Discord
@@ -62,12 +62,23 @@
  * [ ] API cho nhà phát triển
  * [ ] Hệ thống quản lý faction/family (leader & admin)
  * [ ] Chi tiết hơn phân chia chức vụ admin (1, 2, 1337, 1338, 9x)
+ * [x] Map (Bản đồ game, bản đồ vệ tinh, bản đồ giao thông)
+ * [ ] OOC Shop
+ * [ ] Nạp credit (banking, card, online wallet,...)
+ * [ ] Hệ thống thành tựu
 
 ## Forum:
 
  * [ ] Ủy quyền bằng tài khoản trò chơi
+ * [x] Config theme
  * [ ] Setup data mapping
  * [ ] Setup category/sub-forum (lock,...)
 
 ## Map:
+
  * [ ] Realtime map
+
+## Infrastructure:
+
+ * [ ] Microservice architecture
+ * [ ] Config Docker & Docker compose
