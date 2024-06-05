@@ -35,6 +35,7 @@
  * [ ] Job công nhân cảng (khiêng vác đồ)
  * [ ] Thi bằng lái xe
  * [ ] Lite launcher
+ * [ ] Hệ thống thành tựu
 
 ## UCP:
 
