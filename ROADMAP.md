@@ -43,7 +43,7 @@
  * [x] KnowledgeBased system
  * [x] Support system
  * [ ] Server realtime fetchable API (@cacheable)
- * [ ] Reverse location by coordinates
+ * [x] Reverse location by coordinates
  * [ ] Chỉnh sửa hồ sơ (Bio, social networks info, cài đặt hiển thị hồ sơ, lịch sử cấm, lịch sử đổi tên,...) -> tab đầu của cài đặt người dùng
  * [ ] Liên kết Discord
  * [ ] Cài đặt trang web (Push notification?, ...)
@@ -66,6 +66,8 @@
  * [ ] OOC Shop
  * [ ] Nạp credit (banking, card, online wallet,...)
  * [ ] Hệ thống thành tựu
+ * [x] Feedback system
+ * [ ] 2FA
 
 ## Forum:
 
@@ -77,6 +79,11 @@
 ## Map:
 
  * [ ] Realtime map
+
+## Discord:
+
+ * [ ] Bot
+ * [ ] Config channels, member rank
 
 ## Infrastructure:
 
