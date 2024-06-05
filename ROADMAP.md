@@ -41,25 +41,27 @@
  * [x] Ủy quyền bằng tài khoản trò chơi
  * [x] Host tải game + client
  * [x] KnowledgeBased system
- * [ ] Support system
+ * [x] Support system
  * [ ] Server realtime fetchable API
  * [ ] Reverse location by coordinates
  * [ ] Chỉnh sửa hồ sơ (Bio, social networks info, cài đặt hiển thị hồ sơ, lịch sử cấm, lịch sử đổi tên,...) -> tab đầu của cài đặt người dùng
  * [ ] Liên kết Discord
- * [ ] Cài đặt trang web (Push notification, ...)
+ * [ ] Cài đặt trang web (Push notification?, ...)
  * [x] Cài đặt tài khoản (đổi mật khẩu, đổi email, xem và thao tác với lịch sử phiên đăng nhập)
  * [x] Password bruteforce meter
  * [ ] Nộp/duyệt đơn xin gia nhập tổ chức/băng đảng
- * [ ] Nộp/duyệt đơn xin giữ chức vụ (Helper)
- * [ ] Hệ thống kháng cáo (cho người dùng) và duyệt kháng cáo (cho admin)
- * [ ] Hệ thống hỗ trợ (cho người dùng) và duyệt hỗ trợ (cho helper trở lên)
- * [ ] Đổi màu tên theo chức vụ
+ * [ ] Nộp/duyệt đơn xin giữ chức vụ (helper)
+ * [ ] Hệ thống kháng cáo (cho người dùng) và duyệt kháng cáo (admin)
+ * [ ] Hệ thống hỗ trợ (cho người dùng) và duyệt hỗ trợ (helper trở lên)
+ * [x] Đổi màu tên theo chức vụ
  * [ ] Hệ thống blog sync với bài viết trên forum
- * [ ] Hệ thống báo sync với báo trên forum (của SaNews)
+ * [ ] Hệ thống báo sync với báo trên forum (SaNews)
  * [ ] Hoàn thiện phần hiển thị thông tin lịch sử chức vụ, lịch sử đổi tên, lịch sử gia nhập tổ chức/băng đảng
  * [ ] Hệ thống bình chọn
- * [ ] Hệ thống báo cáo (cho người dùng) và duyệt báo cáo (cho admin)
+ * [ ] Hệ thống báo cáo (cho người dùng) và duyệt báo cáo (admin)
  * [ ] API cho nhà phát triển
+ * [ ] Hệ thống quản lý faction/family (leader & admin)
+ * [ ] Chi tiết hơn phân chia chức vụ admin (1, 2, 1337, 1338, 9x)
 
 ## Forum:
 
