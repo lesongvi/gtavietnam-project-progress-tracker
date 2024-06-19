@@ -46,26 +46,26 @@
  * [x] Support system
  * [ ] Server realtime fetchable API (@cacheable)
  * [x] Reverse location by coordinates
- * [ ] Chỉnh sửa hồ sơ (Bio, social networks info, cài đặt hiển thị hồ sơ, lịch sử cấm, lịch sử đổi tên,...) -> tab đầu của cài đặt người dùng
+ * [x] Chỉnh sửa hồ sơ (Bio, social networks info, cài đặt hiển thị hồ sơ, lịch sử cấm, lịch sử đổi tên,...) -> tab đầu của cài đặt người dùng
  * [ ] Liên kết Discord
- * [ ] Cài đặt trang web (Push notification?, ...)
+ * [x] Cài đặt trang web (Push notification?, ...)
  * [x] Cài đặt tài khoản (đổi mật khẩu, đổi email, xem và thao tác với lịch sử phiên đăng nhập)
  * [x] Password bruteforce meter
  * [ ] Nộp/duyệt đơn xin gia nhập tổ chức/băng đảng
  * [ ] Nộp/duyệt đơn xin giữ chức vụ (helper)
- * [ ] Hệ thống kháng cáo (cho người dùng) và duyệt kháng cáo (admin)
- * [ ] Hệ thống hỗ trợ (cho người dùng) và duyệt hỗ trợ (helper trở lên)
+ * [x] Hệ thống kháng cáo (cho người dùng) và duyệt kháng cáo (admin)
+ * [x] Hệ thống hỗ trợ (cho người dùng) và duyệt hỗ trợ (helper trở lên)
  * [x] Đổi màu tên theo chức vụ
- * [ ] Hệ thống blog sync với bài viết trên forum
+ * [x] Hệ thống blog sync với bài viết trên forum
  * [ ] Hệ thống báo sync với báo trên forum (SaNews)
  * [ ] Hoàn thiện phần hiển thị thông tin lịch sử chức vụ, lịch sử đổi tên, lịch sử gia nhập tổ chức/băng đảng
- * [ ] Hệ thống bình chọn
- * [ ] Hệ thống báo cáo (cho người dùng) và duyệt báo cáo (admin)
+ * [x] Hệ thống bình chọn
+ * [x] Hệ thống báo cáo (cho người dùng) và duyệt báo cáo (admin)
  * [ ] API cho nhà phát triển
  * [ ] Hệ thống quản lý faction/family (leader & admin)
  * [ ] Chi tiết hơn phân chia chức vụ admin (1, 2, 1337, 1338, 9x)
  * [x] Map (Bản đồ game, bản đồ vệ tinh, bản đồ giao thông)
- * [ ] OOC Shop
+ * [x] OOC Shop
  * [ ] Nạp credit (banking, card, online wallet,...)
  * [ ] Hệ thống thành tựu
  * [x] Feedback system
@@ -73,10 +73,10 @@
 
 ## Forum:
 
- * [ ] Ủy quyền bằng tài khoản trò chơi
+ * [x] Ủy quyền bằng tài khoản trò chơi
  * [x] Config theme
- * [ ] Setup data mapping
- * [ ] Setup category/sub-forum (lock,...)
+ * [x] Setup data mapping
+ * [x] Setup category/sub-forum (lock,...)
 
 ## Map:
 
