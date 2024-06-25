@@ -37,6 +37,7 @@
  * [ ] Lite launcher
  * [ ] Hệ thống thành tựu
  * [ ] Sampctl
+ * [ ] New authentication screen
 
 ## UCP:
 
@@ -51,7 +52,7 @@
  * [x] Cài đặt trang web (Push notification?, ...)
  * [x] Cài đặt tài khoản (đổi mật khẩu, đổi email, xem và thao tác với lịch sử phiên đăng nhập)
  * [x] Password bruteforce meter
- * [ ] Nộp/duyệt đơn xin gia nhập tổ chức/băng đảng
+ * [x] Nộp/duyệt đơn xin gia nhập tổ chức/băng đảng
  * [ ] Nộp/duyệt đơn xin giữ chức vụ (helper)
  * [x] Hệ thống kháng cáo (cho người dùng) và duyệt kháng cáo (admin)
  * [x] Hệ thống hỗ trợ (cho người dùng) và duyệt hỗ trợ (helper trở lên)
@@ -90,4 +91,4 @@
 ## Infrastructure:
 
  * [ ] Microservice architecture
- * [ ] Config Docker & Docker compose
+ * [x] Config Docker & Docker compose
