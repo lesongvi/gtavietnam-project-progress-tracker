@@ -30,14 +30,21 @@
  * [ ] Job vận chuyển tiền (lái xe vận chuyển tiền, tới checkpoint lấy vali tiền, tới destination checkpoint để hoàn thành)
  * [ ] Hệ thống pha chế ma túy (BB)
  * [ ] Job thợ mỏ
- * [x] Job nhân viên dọn rác
+ * [ ] Job nhân viên dọn rác
  * [ ] Job nhân viên dọn rác (nâng cấp -> add thêm vài task ở bãi rác LS)
  * [ ] Job công nhân cảng (khiêng vác đồ)
  * [ ] Thi bằng lái xe
  * [ ] Lite launcher
  * [ ] Hệ thống thành tựu
  * [ ] Sampctl
- * [ ] New authentication screen
+ * [ ] New authentication TD
+ * [ ] Hệ thống khu an toàn mới
+ * [x] Xi nhan
+ * [ ] press F to enter/exit
+ * [ ] Antihack
+ * [ ] Voice
+ * [ ] New portable radio TD
+ * [ ] Cướp ngân hàng (new)
 
 ## UCP:
 
