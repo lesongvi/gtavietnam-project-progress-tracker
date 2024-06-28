@@ -3,7 +3,7 @@
 
 ## Gamemodel:
 
- * [ ] Điện thoại
+ * [x] Điện thoại
  * [ ] Hệ thống máy đào tiền ảo (aff with maxmines)
  * [ ] Lưu lại lịch sử đổi tên (transparent)
  * [ ] Lưu lại lịch sử promote/demote
@@ -16,7 +16,7 @@
  * [ ] Chức năng lục thùng rác
  * [ ] Có thể trộm tiền từ máy ATM
  * [ ] Có thể mua hotdog từ xe bán hotdog dạo
- * [ ] Hệ thống câu cá - bán cá
+ * [ ] Hệ thống câu cá - bán cá (nâng cấp)
  * [ ] Chức năng Halloween - gõ cửa từng nhà xin kẹo hoặc bị ghẹo
  * [ ] Có thể cướp cửa hàng 24/7
  * [ ] Job buôn lậu bằng máy bay
@@ -37,14 +37,24 @@
  * [ ] Lite launcher
  * [ ] Hệ thống thành tựu
  * [ ] Sampctl
- * [ ] New authentication TD
- * [ ] Hệ thống khu an toàn mới
+ * [x] New authentication TD
+ * [x] Hệ thống khu an toàn mới
  * [x] Xi nhan
  * [ ] press F to enter/exit
  * [ ] Antihack
  * [ ] Voice
  * [ ] New portable radio TD
  * [ ] Cướp ngân hàng (new)
+ * [ ] Family zone (replace old turfs)
+ * [ ] New first tutorial td
+ * [x] New speedometer
+ * [ ] Cho thuê xe
+ * [ ] Khách sạn
+ * [ ] Các app khác trên điện thoại
+ * [ ] New hungry system
+ * [ ] Street food
+ * [ ] Quest
+ * [ ] Túi đồ mới
 
 ## UCP:
 
