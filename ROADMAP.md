@@ -58,6 +58,7 @@
  * [ ] Mặt nạ
  * [ ] Newbie new spawn location and free bike
  * [ ] Thuê xe
+ * [ ] Súng có đạn
 
 ## UCP:
 
