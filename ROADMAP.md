@@ -54,7 +54,10 @@
  * [ ] New hungry system
  * [ ] Street food
  * [ ] Quest
- * [ ] Túi đồ mới
+ * [x] Túi đồ mới
+ * [ ] Mặt nạ
+ * [ ] Newbie new spawn location and free bike
+ * [ ] Thuê xe
 
 ## UCP:
 
