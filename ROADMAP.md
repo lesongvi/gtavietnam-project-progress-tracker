@@ -30,8 +30,8 @@
  * [ ] Job vận chuyển tiền (lái xe vận chuyển tiền, tới checkpoint lấy vali tiền, tới destination checkpoint để hoàn thành)
  * [ ] Hệ thống pha chế ma túy (BB)
  * [ ] Job thợ mỏ
- * [ ] Job nhân viên dọn rác
- * [ ] Job nhân viên dọn rác (nâng cấp -> add thêm vài task ở bãi rác LS)
+ * [x] Job nhân viên dọn rác
+ * [x] Job nhân viên dọn rác (nâng cấp -> add thêm vài task ở bãi rác LS)
  * [ ] Job công nhân cảng (khiêng vác đồ)
  * [x] Thi bằng lái xe
  * [ ] Update đường đi sát hạch lái xe
