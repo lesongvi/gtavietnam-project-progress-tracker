@@ -33,7 +33,10 @@
  * [ ] Job nhân viên dọn rác
  * [ ] Job nhân viên dọn rác (nâng cấp -> add thêm vài task ở bãi rác LS)
  * [ ] Job công nhân cảng (khiêng vác đồ)
- * [ ] Thi bằng lái xe
+ * [x] Thi bằng lái xe
+ * [ ] Update đường đi sát hạch lái xe
+ * [ ] Thi bằng lái xe motor
+ * [ ] Thi bằng lái máy bay
  * [ ] Lite launcher
  * [ ] Hệ thống thành tựu
  * [ ] Sampctl
@@ -41,12 +44,12 @@
  * [x] Hệ thống khu an toàn mới
  * [x] Xi nhan
  * [ ] press F to enter/exit
- * [ ] Antihack
+ * [x] Antihack
  * [ ] Voice
  * [ ] New portable radio TD
  * [ ] Cướp ngân hàng (new)
  * [ ] Family zone (replace old turfs)
- * [ ] New first tutorial td
+ * [x] New first tutorial td
  * [x] New speedometer
  * [ ] Cho thuê xe
  * [ ] Khách sạn
@@ -55,10 +58,14 @@
  * [ ] Street food
  * [ ] Quest
  * [x] Túi đồ mới
- * [ ] Mặt nạ
+ * [x] Mặt nạ
  * [ ] Newbie new spawn location and free bike
  * [ ] Thuê xe
- * [ ] Súng có đạn
+ * [x] Súng có đạn
+ * [ ] Hệ thống chế tạo đạn mới
+ * [ ] Bus system cho Taxi Company, update trạm bus
+ * [x] Nhà tù mới (OOC)
+ * [ ] Buồng điện thoại gọi taxi (for newbie)
 
 ## UCP:
 
