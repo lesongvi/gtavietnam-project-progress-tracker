@@ -66,6 +66,7 @@
  * [ ] Bus system cho Taxi Company, update trạm bus
  * [x] Nhà tù mới (OOC)
  * [ ] Buồng điện thoại gọi taxi (for newbie)
+ * [ ] Remove job thu gom rác cũ
 
 ## UCP:
 
