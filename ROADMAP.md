@@ -67,6 +67,7 @@
  * [x] Nhà tù mới (OOC)
  * [ ] Buồng điện thoại gọi taxi (for newbie)
  * [ ] Remove job thu gom rác cũ
+ * [x] Update job thợ sửa xe
 
 ## UCP:
 
