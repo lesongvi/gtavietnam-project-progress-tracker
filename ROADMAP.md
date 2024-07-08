@@ -27,7 +27,7 @@
  * [ ] Job trộm (phá két, trộm item,..) - chỉ có thể làm buổi tối - time limit
  * [ ] Job phá bom (bit time, good pay)
  * [ ] Smart computer in police car (for police only)
- * [ ] Job vận chuyển tiền (lái xe vận chuyển tiền, tới checkpoint lấy vali tiền, tới destination checkpoint để hoàn thành)
+ * [x] Job vận chuyển tiền (lái xe vận chuyển tiền, tới checkpoint lấy vali tiền, tới destination checkpoint để hoàn thành)
  * [ ] Hệ thống pha chế ma túy (BB)
  * [ ] Job thợ mỏ
  * [x] Job nhân viên dọn rác
