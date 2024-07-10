@@ -8,7 +8,7 @@
  * [ ] Lưu lại lịch sử đổi tên (transparent)
  * [ ] Lưu lại lịch sử promote/demote
  * [ ] Lưu lại lịch sử gia nhập tổ chức/băng đảng
- * [ ] Chức năng say khi uống rượu (giống chơi pot/crack) -> choáng váng, thay đổi dáng đi
+ * [x] Chức năng say khi uống rượu (giống chơi pot/crack) -> choáng váng, thay đổi dáng đi
  * [ ] Chức năng bẻ khóa xe, trộm xe, bán xe -> chuộc xe $$$
  * [ ] Working bar system
  * [ ] Chức năng fast food drive thru'
@@ -22,11 +22,11 @@
  * [ ] Job buôn lậu bằng máy bay
  * [ ] Job vận chuyển hàng lậu (bằng Sanchez)
  * [ ] Job tài xế Forklift
- * [x] Có thể trộm đồ trong nhà
+ * [ ] Có thể trộm đồ trong nhà
  * [ ] Job nông dân
  * [ ] Job trộm (phá két, trộm item,..) - chỉ có thể làm buổi tối - time limit
  * [ ] Job phá bom (bit time, good pay)
- * [ ] Smart computer in police car (for police only)
+ * [ ] New mart computer in police car TD (for police only)
  * [x] Job vận chuyển tiền (lái xe vận chuyển tiền, tới checkpoint lấy vali tiền, tới destination checkpoint để hoàn thành)
  * [ ] Hệ thống pha chế ma túy (BB)
  * [ ] Job thợ mỏ
@@ -34,8 +34,8 @@
  * [x] Job nhân viên dọn rác (nâng cấp -> add thêm vài task ở bãi rác LS)
  * [ ] Job công nhân cảng (khiêng vác đồ)
  * [x] Thi bằng lái xe
- * [ ] Update đường đi sát hạch lái xe
- * [ ] Thi bằng lái xe motor
+ * [x] Update đường đi sát hạch lái xe
+ * [x] Thi bằng lái xe motor
  * [ ] Thi bằng lái máy bay
  * [ ] Lite launcher
  * [ ] Hệ thống thành tựu
@@ -63,7 +63,7 @@
  * [ ] Thuê xe
  * [x] Súng có đạn
  * [ ] Hệ thống chế tạo đạn mới
- * [ ] Bus system cho Taxi Company, update trạm bus
+ * [x] Bus system cho Taxi Company, update trạm bus
  * [x] Nhà tù mới (OOC)
  * [ ] Buồng điện thoại gọi taxi (for newbie)
  * [ ] Remove job thu gom rác cũ
