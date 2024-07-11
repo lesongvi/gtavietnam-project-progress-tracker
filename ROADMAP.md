@@ -43,7 +43,7 @@
  * [x] New authentication TD
  * [x] Hệ thống khu an toàn mới
  * [x] Xi nhan
- * [ ] press F to enter/exit
+ * [x] press 'N' to enter/exit
  * [x] Antihack
  * [ ] Voice
  * [ ] New portable radio TD
@@ -68,6 +68,8 @@
  * [ ] Buồng điện thoại gọi taxi (for newbie)
  * [ ] Remove job thu gom rác cũ
  * [x] Update job thợ sửa xe
+ * [ ] Mũ bảo hiểm
+ * [ ] Bẻ khóa xe (trộm xe)
 
 ## UCP:
 
