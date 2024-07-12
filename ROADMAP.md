@@ -13,7 +13,7 @@
  * [ ] Working bar system
  * [ ] Chức năng fast food drive thru'
  * [ ] Hệ thống báo sync với bài viết forum (của SaNews)
- * [ ] Chức năng lục thùng rác
+ * [x] Chức năng lục thùng rác
  * [ ] Có thể trộm tiền từ máy ATM
  * [ ] Có thể mua hotdog từ xe bán hotdog dạo
  * [ ] Hệ thống câu cá - bán cá (nâng cấp)
