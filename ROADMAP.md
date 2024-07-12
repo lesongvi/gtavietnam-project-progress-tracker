@@ -70,6 +70,7 @@
  * [x] Update job thợ sửa xe
  * [ ] Mũ bảo hiểm
  * [ ] Bẻ khóa xe (trộm xe)
+ * [ ] Restructure project (WILL NEED A TON OF EFFORTS!)
 
 ## UCP:
 
