@@ -104,6 +104,7 @@
  * [ ] Hệ thống thành tựu
  * [x] Feedback system
  * [ ] 2FA
+ * [ ] Danh sách phạt nguội, kiểm tra phạt nguội (sử dụng camera bắn tốc độ)
 
 ## Forum:
 
