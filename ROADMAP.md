@@ -1,5 +1,6 @@
 # GTAVIETNAM.com project roadmap
 - Roadmap này vẫn đang được cập nhật thêm vào.
+- Big update gamemode đang bị stuck (bug!) -> I'm working on it!
 
 ## Gamemodel:
 
